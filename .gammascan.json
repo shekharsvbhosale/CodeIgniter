@@ -1,0 +1,25 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.2.232:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin123"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "649a0bcd8bb327f2da664957ecf51c62",
+			"projectName": "JenkinsPlugin_PHP_CodeIgnotor",
+			"sources": {
+				"baseDir": "%WORKSPACE%"
+			}
+		},
+		"dataDir": "C:\\Shekhar-Acellere\\GitRepos\\PHP\\CodeIgniter-dataDir",
+		"modules": {
+				"codeissues": [{
+						"name": "phpmd"
+					}, {
+						"name": "phpcs"
+					}
+				]
+			}
+	}]
+}
