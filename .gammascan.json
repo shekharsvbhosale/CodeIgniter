@@ -6,8 +6,8 @@
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "aad9ceed1e32b63d9f7b0139a82857c8",
-			"projectName": "JenkinsPlugin_Win16ToU16_PHP_CodeIgniter",
+			"uid": "b6720ba6b883fab267b5de2908129a86",
+			"projectName": "LocalJenkins_CodeIgniter_PHP",
 			"sources": {
 				"baseDir": "$WORKSPACE"
 			}
